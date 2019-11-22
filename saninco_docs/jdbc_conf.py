@@ -1,17 +1,17 @@
 # # TheMove QA
-# database = "saninco_realtor_db"
-# user = "themove.ca"
-# password = "themove.ca"
-# host = "192.168.5.201"
-# port = "5432"
+# database = "b"
+# user = ""
+# password = ""
+# host = ""
+# port = ""
 
 # TheMove Production
 is_ssh = True
-ssh_host = "138.197.138.231"
+ssh_host = ""
 ssh_port = 22
-ssh_username = "root"
-ssh_password = "saninco123#@!"
-database = "saninco_realtor_db"
+ssh_username = ""
+ssh_password = ""
+database = ""
 user = "dealtap"
 password = "dealtap"
 host = "localhost"
